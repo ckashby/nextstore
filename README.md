@@ -1,36 +1,55 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Project Overview
 
-First, run the development server:
+# Take project requirements documents and milestones and create a project plan with tasks and deadlines.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Use the following format:
+# Project Plan
+# ============
+# Project Name: [Project Name]
+# Project Description: [Project Description]
+# Project Requirements: [Project Requirements]
+# Project Milestones: [Project Milestones]
+# Project Tasks: [Project Tasks]
+# Project Deadlines: [Project Deadlines]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Create github issues for each task and assign them to the appropriate team members.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+# Use the following format:
+# Issue Title: [Task Name]
+# Issue Description: [Task Description]
+# Issue Assignee: [Assignee Name]
+# Issue Labels: [Labels]
+# Issue Milestone: [Milestone Name]
+# Issue Deadline: [Deadline]
 
-To learn more about Next.js, take a look at the following resources:
+# First issue title should be "Project Plan" and should be assigned to the project manager.
+# Second github issue should be "Project Setup" and should be assigned to the project manager.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Project Plan
+# ============
+# Project Name: Nextstore
+# Project Description: Nextstore is an e-commerce platform built with Next.js, TypeScript, and Tailwind CSS.
+# Project Requirements: [Project Requirements]
+# Project Milestones: [Project Milestones]
+# Project Tasks: [Project Tasks]
+# Project Deadlines: [Project Deadlines]
 
-## Deploy on Vercel
+# Issue Title: Project Plan
+# Issue Description: Create a project plan with tasks and deadlines.
+# Issue Assignee: [Assignee Name]
+# Issue Labels: [Labels]
+# Issue Milestone: [Milestone Name]
+# Issue Deadline: [Deadline]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Issue Title: Project Setup
+# Issue Description: Set up the project with Next.js, TypeScript, and Tailwind CSS.
+# Issue Assignee: [Assignee Name]
+# Issue Labels: [Labels]
+# Issue Milestone: [Milestone Name]
+# Issue Deadline: [Deadline]
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
