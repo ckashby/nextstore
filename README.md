@@ -16,6 +16,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 # Create github issues for each task and assign them to the appropriate team members.
+# Use a /slash command to create the issue with claud code.
 
 
 # Use the following format:
